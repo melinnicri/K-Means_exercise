@@ -32,23 +32,31 @@ In other words, the model is significant and the predictor variables have a sign
 
 The variance decreases for two clusters (variability is less), so we choose to keep 2 clusters instead of 3 clusters (graphics not shown).
 Summary of results:
-Variance of each group:
-Cluster 0, Column V1: 0.410; Column V2: 0.231;
-Cluster 1, Column V1: 0.436; Column V2: 0.593.
-Mean of the variances:
-Column V1 (both clusters, 0 and 1): 0.320;
-Column V2 (both clusters): 0.514.
-Combined variance:
-Column V1 (both clusters, 0 and 1): 244.768;
-Column V2 (both clusters, 0 and 1): 260.271.
-Sum of squares between groups: 8.022.
-Sum of squares within the groups: 1558.290.
-F-statistic: 7.052, p-value: 0.008.
-Mean of each group (± standard deviation):
-Cluster 0, Column V1: -0.850 ± 0.641; Column V2: -0.631 ± 0.901;
-Cluster 1, Column V1: 0.655 ± 0.683; Column V2: 0.486 ± 0.776.
-T-statistic: -1.084e-15, p-value: 0.999.
 
+* Variance of each group:
+* Cluster 0, Column V1: 0.410; Column V2: 0.231;
+* Cluster 1, Column V1: 0.436; Column V2: 0.593.
+
+* Mean of the variances:
+* Column V1 (both clusters, 0 and 1): 0.320;
+* Column V2 (both clusters): 0.514.
+
+* Combined variance:
+* Column V1 (both clusters, 0 and 1): 244.768;
+* Column V2 (both clusters, 0 and 1): 260.271.
+* Sum of squares between groups: 8.022.
+* Sum of squares within the groups: 1558.290.
+* F-statistic: 7.052, p-value: 0.008.
+* Mean of each group (± standard deviation):
+* Cluster 0, Column V1: -0.850 ± 0.641; Column V2: -0.631 ± 0.901;
+* Cluster 1, Column V1: 0.655 ± 0.683; Column V2: 0.486 ± 0.776.
+* T-statistic: -1.084e-15, p-value: 0.999.
+
+
+<p align="center"><img src="https://github.com/melinnicri/K-Means_exercise/blob/main/images/Kmeans2.png"/>
+  <br/> 
 Graph number 2: k=2, the two final groups.
+  </span></p>
 
-Therefore, there are two columns of data (approximately 1300 data) about images of fake and real banknotes, the model used to know well about images as distinction patterns is KMeans, which groups the data by similarity (the means are marked with a cross and the data are close to this mean) and this is how we obtain two groupings well defined (Graph number 2), which can then be extrapolated for new data. Through the F and p Test, the model is significant and the predictor variables have a significant effect on the clusters. ..._@v
+
+Therefore, there are two columns of data (approximately 1300 data) about images of fake and real banknotes, the model used to know well about images as distinction patterns is KMeans, which groups the data by similarity (the means are marked with a cross and the data are close to this mean) and this is how we obtain two groupings well defined (Graph number 2), which can then be extrapolated for new data. Through the F and p Test, the model is significant and the predictor variables have a significant effect on the clusters. **..._@v**
