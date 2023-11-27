@@ -14,16 +14,7 @@ Data description (data found in ["Nuevo_Billete.ipynb"](https://github.com/melin
 
 ## Methods: 
 How was the data analyzed? The data were first standardized and cleaned (ETL) before applying K-Means model (EDA; unsupervised classification), so the new statistical description is as follows:
-
-       Column V1 (0)   Column V2 (1)
-Count   1.372000e+03   1.372000e+03
-Mean   -8.286213e-17  -4.143106e-17
-Std     1.000365e+00   1.000365e+00
-Min    -2.630737e+00  -2.675252e+00
-25%    -7.765474e-01  -6.188189e-01
-50%     2.197423e-02   6.771828e-02
-75%     8.402427e-01   8.338757e-01
-Max     2.249008e+00   1.879908e+00
+<p align="center"><img src="https://github.com/melinnicri/K-Means_exercise/blob/main/images/Columns.png"></p>
 
 The elbow in the K-means algorithm refers to the technique used to determine the optimal number of clusters. The elbow rule involves plotting the sum of squared errors (SSE) as a function of the number of clusters. SSE is a measure of the quality of clusters. The lower the SSE, the better the clustering. The graph will look like a downward curve that resembles an arm with an elbow. The point at which the curve begins to flatten is called the elbow. This point indicates the optimal number of clusters for the K-means model, as shown below in the following graph:
 Graph number 1: Number of clusters (k=2).
