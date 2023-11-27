@@ -3,7 +3,7 @@ Amelia Herrera Briceño
 melinnicri@gmail.com
 November, 2023.
 
-<p align="center"><img src="(https://github.com/melinnicri/K-Means_exercise/blob/main/images/fake.png)"></p>
+<p align="center"><img src="https://github.com/melinnicri/K-Means_exercise/blob/main/images/fake.png"></p>
 
 ## Purpose of the Data Science project: 
 The purpose of counterfeit bill detection is to prevent the circulation of counterfeit bills, which can be used to commit fraud and other crimes. As for actual banknotes, data collection can help authorities identify patterns and trends in cash use, which can be useful for public policy formulation and decision-making.
