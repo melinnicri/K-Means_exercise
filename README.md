@@ -19,8 +19,10 @@ How was the data analyzed? The data were first standardized and cleaned (ETL) be
 The elbow in the K-means algorithm refers to the technique used to determine the optimal number of clusters. The elbow rule involves plotting the sum of squared errors (SSE) as a function of the number of clusters. SSE is a measure of the quality of clusters. The lower the SSE, the better the clustering. The graph will look like a downward curve that resembles an arm with an elbow. The point at which the curve begins to flatten is called the elbow. This point indicates the optimal number of clusters for the K-means model, as shown below in the following graph:
 
 
-<p align="center"><img src="https://github.com/melinnicri/K-Means_exercise/blob/main/images/Encoding.png"></p>
-<br />  <span>Graph number 1: Number of clusters (k=2).</span>
+<p align="center">
+  <img src="https://github.com/melinnicri/K-Means_exercise/blob/main/images/Encoding.png" />
+  <br />
+  <span>Graph number 1: Number of clusters (k=2).</span>
 </p>
 
 Based on the Graph number 1, it appears that the optimal value of k is 2. However, it is important to note that the optimal value of k can vary depending on the data set and the specific problem you are trying to solve. Therefore, it is a good idea to experiment with different values of k and evaluate the results to determine the best value for your specific use case.
