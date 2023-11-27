@@ -21,8 +21,7 @@ The elbow in the K-means algorithm refers to the technique used to determine the
 
 
 <p align="center"><img src="https://github.com/melinnicri/K-Means_exercise/blob/main/images/Encoding.png"/>
-  <br/> 
-  Graph number 1: Number of clusters (k=2).
+  <br/> <b>Graph number 1: Number of clusters (k=2).</b>
   </span></p>
 
 
@@ -54,8 +53,7 @@ Summary of results:
 
 
 <p align="center"><img src="https://github.com/melinnicri/K-Means_exercise/blob/main/images/Kmeans2.png"/>
-  <br/> 
-Graph number 2: k=2, the two final groups.
+  <br/>Graph number 2: k=2, the two final groups.</b>
   </span></p>
 
 
