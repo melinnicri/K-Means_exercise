@@ -46,7 +46,7 @@ Summary of results:
   - Sum of squares between groups: 8.022.
   - Sum of squares within the groups: 1558.290.
   - F-statistic: 7.052, p-value: 0.008.
-  - 
+
 * Mean of each group (± standard deviation):
   - Cluster 0, Column V1: -0.850 ± 0.641; Column V2: -0.631 ± 0.901;
   - Cluster 1, Column V1: 0.655 ± 0.683; Column V2: 0.486 ± 0.776.
