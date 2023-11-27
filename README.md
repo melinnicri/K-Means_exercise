@@ -53,7 +53,7 @@ Summary of results:
 
 
 <p align="center"><img src="https://github.com/melinnicri/K-Means_exercise/blob/main/images/Kmeans2.png"/>
-  <br/>Graph number 2: k=2, the two final groups.</b>
+  <br/><b>Graph number 2: k=2, the two final groups.</b>
   </span></p>
 
 
