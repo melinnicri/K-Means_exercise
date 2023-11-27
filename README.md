@@ -33,8 +33,8 @@ The variance decreases for two clusters (variability is less), so we choose to k
 Summary of results:
 
 * Variance of each group:
-* Cluster 0, Column V1: 0.410; Column V2: 0.231;
-* Cluster 1, Column V1: 0.436; Column V2: 0.593.
+  - Cluster 0, Column V1: 0.410; Column V2: 0.231;
+  - Cluster 1, Column V1: 0.436; Column V2: 0.593.
 
 * Mean of the variances:
 * Column V1 (both clusters, 0 and 1): 0.320;
