@@ -57,5 +57,6 @@ Summary of results:
   <br/><b>Graph number 2: k=2, the two final groups.</b>
   </span></p>
 
+### Two procedures were carried out, one with two clusters [K=2](https://github.com/melinnicri/K-Means_exercise/blob/main/Nuevo_Billete.ipynb) and the other with three clusters [K=3](https://github.com/melinnicri/K-Means_exercise/blob/main/Nuevo_Billete_again.ipynb).
 
 Therefore, there are two columns of data (approximately 1300 data) about images of fake and real banknotes, the model used to know well about images as distinction patterns is KMeans, which groups the data by similarity (the means are marked with a cross and the data are close to this mean) and this is how we obtain two groupings well defined (Graph number 2), which can then be extrapolated for new data. Through the F and p Test, the model is significant and the predictor variables have a significant effect on the clusters. **..._@v**
