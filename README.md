@@ -1,7 +1,7 @@
 # K-Means exercise: 
 Amelia Herrera Briceño
-melinnicri@gmail.com
-November, 2023.
+- melinnicri@gmail.com
+- November, 2023.
 
 <p align="center"><img src="https://github.com/melinnicri/K-Means_exercise/blob/main/images/fake.png"></p>
 
@@ -37,19 +37,20 @@ Summary of results:
   - Cluster 1, Column V1: 0.436; Column V2: 0.593.
 
 * Mean of the variances:
-* Column V1 (both clusters, 0 and 1): 0.320;
-* Column V2 (both clusters): 0.514.
+  - Column V1 (both clusters, 0 and 1): 0.320;
+  - Column V2 (both clusters): 0.514.
 
 * Combined variance:
-* Column V1 (both clusters, 0 and 1): 244.768;
-* Column V2 (both clusters, 0 and 1): 260.271.
-* Sum of squares between groups: 8.022.
-* Sum of squares within the groups: 1558.290.
-* F-statistic: 7.052, p-value: 0.008.
+  - Column V1 (both clusters, 0 and 1): 244.768;
+  - Column V2 (both clusters, 0 and 1): 260.271.
+  - Sum of squares between groups: 8.022.
+  - Sum of squares within the groups: 1558.290.
+  - F-statistic: 7.052, p-value: 0.008.
+  - 
 * Mean of each group (± standard deviation):
-* Cluster 0, Column V1: -0.850 ± 0.641; Column V2: -0.631 ± 0.901;
-* Cluster 1, Column V1: 0.655 ± 0.683; Column V2: 0.486 ± 0.776.
-* T-statistic: -1.084e-15, p-value: 0.999.
+  - Cluster 0, Column V1: -0.850 ± 0.641; Column V2: -0.631 ± 0.901;
+  - Cluster 1, Column V1: 0.655 ± 0.683; Column V2: 0.486 ± 0.776.
+  - T-statistic: -1.084e-15, p-value: 0.999.
 
 
 <p align="center"><img src="https://github.com/melinnicri/K-Means_exercise/blob/main/images/Kmeans2.png"/>
